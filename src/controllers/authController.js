@@ -2,7 +2,7 @@ import UserModel from '../models/userModel.js';
 import jwtUtils from '../utils/hashHelper.js';
 
 // Register a new user
-// authController.js
+// authController.js  nikhil 
 
 export const register = async (req, res) => {
   try {
